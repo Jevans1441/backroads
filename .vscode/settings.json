@@ -1,0 +1,8 @@
+{
+  "emmet.preferences": {},
+
+  "emmet.includeLanguages": {
+    "ejs": "html",
+    "javascript": "javascriptreact"
+  }
+}
